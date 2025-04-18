@@ -105,3 +105,5 @@ pwd
 ls --color=auto
 more package.json
 clear
+pwd
+ls --color=auto
