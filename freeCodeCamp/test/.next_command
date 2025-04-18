@@ -141,3 +141,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd node_modules/
 pwd
 ls --color=auto
+ls --color=auto -l
