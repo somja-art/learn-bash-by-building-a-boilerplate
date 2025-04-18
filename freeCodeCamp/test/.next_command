@@ -104,3 +104,4 @@ cd ..
 pwd
 ls --color=auto
 more package.json
+clear
