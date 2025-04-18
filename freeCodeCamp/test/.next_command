@@ -101,3 +101,5 @@ cd test
 pwd
 ls --color=auto
 cd ..
+pwd
+ls --color=auto
